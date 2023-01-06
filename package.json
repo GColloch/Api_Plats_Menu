@@ -1,0 +1,8 @@
+{
+  "name": "API_Plats_Menu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GColloch/Api_Plats_Menu.git",
+  "author": "Guillaume <guillaumecolloch56@gmail.com>",
+  "license": "MIT"
+}
